@@ -1,0 +1,621 @@
+Year,State,Grade,Skill,Percentage
+2018,Andhra Pradesh,Grade 3,Reading,22.6
+2018,Arunachal Pradesh,Grade 3,Reading,4.8
+2018,Assam,Grade 3,Reading,14.4
+2018,Bihar,Grade 3,Reading,12.3
+2018,Chhattisgarh,Grade 3,Reading,25
+2018,Gujarat,Grade 3,Reading,32.3
+2018,Haryana,Grade 3,Reading,33.5
+2018,Himachal Pradesh,Grade 3,Reading,47.4
+2018,Jammu & Kashmir,Grade 3,Reading,5.4
+2018,Jharkhand,Grade 3,Reading,11
+2018,Karnataka,Grade 3,Reading,19.4
+2018,Kerala,Grade 3,Reading,43.4
+2018,Madhya Pradesh,Grade 3,Reading,10.4
+2018,Maharashtra,Grade 3,Reading,44.2
+2018,Manipur,Grade 3,Reading,24.5
+2018,Meghalaya,Grade 3,Reading,19.6
+2018,Mizoram,Grade 3,Reading,25.2
+2018,Nagaland,Grade 3,Reading,7.4
+2018,Odisha,Grade 3,Reading,34.9
+2018,Punjab,Grade 3,Reading,36.4
+2018,Rajasthan,Grade 3,Reading,10.3
+2018,Sikkim,Grade 3,Reading,13.5
+2018,Tamil Nadu,Grade 3,Reading,11.6
+2018,Telangana,Grade 3,Reading,12.6
+2018,Tripura,Grade 3,Reading,25.3
+2018,Uttar Pradesh,Grade 3,Reading,12.3
+2018,Uttarakhand,Grade 3,Reading,24.7
+2018,West Bengal,Grade 3,Reading,36.6
+2022,Andhra Pradesh,Grade 3,Reading,10.3
+2022,Arunachal Pradesh,Grade 3,Reading,3.5
+2022,Assam,Grade 3,Reading,10.1
+2022,Bihar,Grade 3,Reading,12.9
+2022,Chhattisgarh,Grade 3,Reading,20.7
+2022,Gujarat,Grade 3,Reading,23.2
+2022,Haryana,Grade 3,Reading,21.2
+2022,Himachal Pradesh,Grade 3,Reading,23
+2022,Jammu & Kashmir,Grade 3,Reading,4.3
+2022,Jharkhand,Grade 3,Reading,9.5
+2022,Karnataka,Grade 3,Reading,7.7
+2022,Kerala,Grade 3,Reading,31.6
+2022,Madhya Pradesh,Grade 3,Reading,7.9
+2022,Maharashtra,Grade 3,Reading,26.1
+2022,Manipur,Grade 3,Reading,23.3
+2022,Meghalaya,Grade 3,Reading,10.7
+2022,Mizoram,Grade 3,Reading,13.2
+2022,Nagaland,Grade 3,Reading,9.1
+2022,Odisha,Grade 3,Reading,26.7
+2022,Punjab,Grade 3,Reading,26.3
+2022,Rajasthan,Grade 3,Reading,7.7
+2022,Sikkim,Grade 3,Reading,14.7
+2022,Tamil Nadu,Grade 3,Reading,4.7
+2022,Telangana,Grade 3,Reading,6.3
+2022,Tripura,Grade 3,Reading,15.3
+2022,Uttar Pradesh,Grade 3,Reading,16.4
+2022,Uttarakhand,Grade 3,Reading,22.1
+2022,West Bengal,Grade 3,Reading,32.6
+2022,ALL INDIA (Govt),Grade 3,Reading,16.3
+2024,Andhra Pradesh,Grade 3,Reading,15.7
+2024,Arunachal Pradesh,Grade 3,Reading,19.4
+2024,Assam,Grade 3,Reading,18.2
+2024,Bihar,Grade 3,Reading,26.1
+2024,Chhattisgarh,Grade 3,Reading,25
+2024,Gujarat,Grade 3,Reading,25.8
+2024,Haryana,Grade 3,Reading,44
+2024,Himachal Pradesh,Grade 3,Reading,50.6
+2024,Jammu & Kashmir,Grade 3,Reading,16.6
+2024,Jharkhand,Grade 3,Reading,19.6
+2024,Karnataka,Grade 3,Reading,23.9
+2024,Kerala,Grade 3,Reading,26.9
+2024,Madhya Pradesh,Grade 3,Reading,13
+2024,Maharashtra,Grade 3,Reading,31.6
+2024,Odisha,Grade 3,Reading,34.6
+2024,Punjab,Grade 3,Reading,45.8
+2024,Rajasthan,Grade 3,Reading,10.4
+2024,Tamil Nadu,Grade 3,Reading,27.6
+2024,Telangana,Grade 3,Reading,15.7
+2024,Uttar Pradesh,Grade 3,Reading,26.1
+2024,Uttarakhand,Grade 3,Reading,26.7
+2024,West Bengal,Grade 3,Reading,37.5
+2024,ALL INDIA (Govt),Grade 3,Reading,23.4
+2018,Andhra Pradesh,Grade 5,Reading,59.7
+2018,Arunachal Pradesh,Grade 5,Reading,37.1
+2018,Assam,Grade 5,Reading,40.1
+2018,Bihar,Grade 5,Reading,41.3
+2018,Chhattisgarh,Grade 5,Reading,59.5
+2018,Gujarat,Grade 5,Reading,53.7
+2018,Haryana,Grade 5,Reading,69.1
+2018,Himachal Pradesh,Grade 5,Reading,76.9
+2018,Jammu & Kashmir,Grade 5,Reading,41.9
+2018,Jharkhand,Grade 5,Reading,34.4
+2018,Karnataka,Grade 5,Reading,46
+2018,Kerala,Grade 5,Reading,77.2
+2018,Madhya Pradesh,Grade 5,Reading,41.6
+2018,Maharashtra,Grade 5,Reading,66.4
+2018,Manipur,Grade 5,Reading,67.5
+2018,Meghalaya,Grade 5,Reading,50.1
+2018,Mizoram,Grade 5,Reading,64.3
+2018,Nagaland,Grade 5,Reading,48
+2018,Odisha,Grade 5,Reading,58.4
+2018,Punjab,Grade 5,Reading,71.6
+2018,Rajasthan,Grade 5,Reading,49.1
+2018,Sikkim,Grade 5,Reading,41.7
+2018,Tamil Nadu,Grade 5,Reading,40.7
+2018,Telangana,Grade 5,Reading,43.7
+2018,Tripura,Grade 5,Reading,45
+2018,Uttar Pradesh,Grade 5,Reading,41.3
+2018,Uttarakhand,Grade 5,Reading,58
+2018,West Bengal,Grade 5,Reading,45
+2018,ALL INDIA (Govt),Grade 5,Reading,44.2
+2022,Andhra Pradesh,Grade 5,Reading,36.4
+2022,Arunachal Pradesh,Grade 5,Reading,37.8
+2022,Assam,Grade 5,Reading,36.5
+2022,Bihar,Grade 5,Reading,42.4
+2022,Chhattisgarh,Grade 5,Reading,55.4
+2022,Gujarat,Grade 5,Reading,34.2
+2022,Haryana,Grade 5,Reading,57.6
+2022,Himachal Pradesh,Grade 5,Reading,61.4
+2022,Jammu & Kashmir,Grade 5,Reading,35.1
+2022,Jharkhand,Grade 5,Reading,35.6
+2022,Karnataka,Grade 5,Reading,28.8
+2022,Kerala,Grade 5,Reading,52.9
+2022,Madhya Pradesh,Grade 5,Reading,35.7
+2022,Maharashtra,Grade 5,Reading,52.9
+2022,Manipur,Grade 5,Reading,59.1
+2022,Meghalaya,Grade 5,Reading,38.3
+2022,Mizoram,Grade 5,Reading,41.6
+2022,Nagaland,Grade 5,Reading,35.1
+2022,Odisha,Grade 5,Reading,52.6
+2022,Punjab,Grade 5,Reading,59.3
+2022,Rajasthan,Grade 5,Reading,36.6
+2022,Sikkim,Grade 5,Reading,34.4
+2022,Tamil Nadu,Grade 5,Reading,25.5
+2022,Telangana,Grade 5,Reading,31.3
+2022,Tripura,Grade 5,Reading,38.8
+2022,Uttar Pradesh,Grade 5,Reading,38.8
+2022,Uttarakhand,Grade 5,Reading,49.4
+2022,West Bengal,Grade 5,Reading,38.8
+2022,ALL INDIA (Govt),Grade 5,Reading,38.5
+2024,Andhra Pradesh,Grade 5,Reading,37.7
+2024,Arunachal Pradesh,Grade 5,Reading,41
+2024,Assam,Grade 5,Reading,38.3
+2024,Bihar,Grade 5,Reading,43.6
+2024,Chhattisgarh,Grade 5,Reading,54.4
+2024,Gujarat,Grade 5,Reading,46.3
+2024,Haryana,Grade 5,Reading,63.5
+2024,Himachal Pradesh,Grade 5,Reading,71.3
+2024,Jammu & Kashmir,Grade 5,Reading,37.7
+2024,Jharkhand,Grade 5,Reading,45.3
+2024,Karnataka,Grade 5,Reading,37.7
+2024,Kerala,Grade 5,Reading,50.5
+2024,Madhya Pradesh,Grade 5,Reading,38.3
+2024,Maharashtra,Grade 5,Reading,50.5
+2024,Manipur,Grade 5,Reading,69.9
+2024,Odisha,Grade 5,Reading,58.3
+2024,Punjab,Grade 5,Reading,71.3
+2024,Rajasthan,Grade 5,Reading,38.3
+2024,Tamil Nadu,Grade 5,Reading,38.3
+2024,Telangana,Grade 5,Reading,37.7
+2024,Uttar Pradesh,Grade 5,Reading,43.6
+2024,Uttarakhand,Grade 5,Reading,52.5
+2024,West Bengal,Grade 5,Reading,43.6
+2024,ALL INDIA (Govt),Grade 5,Reading,44.8
+2018,Andhra Pradesh,Grade 8,Reading,78.2
+2018,Arunachal Pradesh,Grade 8,Reading,70.5
+2018,Assam,Grade 8,Reading,60.8
+2018,Bihar,Grade 8,Reading,71.2
+2018,Chhattisgarh,Grade 8,Reading,78.7
+2018,Gujarat,Grade 8,Reading,73.2
+2018,Haryana,Grade 8,Reading,81.2
+2018,Himachal Pradesh,Grade 8,Reading,89.9
+2018,Jammu & Kashmir,Grade 8,Reading,64.8
+2018,Jharkhand,Grade 8,Reading,66.4
+2018,Karnataka,Grade 8,Reading,70.3
+2018,Kerala,Grade 8,Reading,89.6
+2018,Madhya Pradesh,Grade 8,Reading,64.4
+2018,Maharashtra,Grade 8,Reading,80.2
+2018,Manipur,Grade 8,Reading,86.5
+2018,Meghalaya,Grade 8,Reading,82.8
+2018,Mizoram,Grade 8,Reading,89.4
+2018,Nagaland,Grade 8,Reading,83.6
+2018,Odisha,Grade 8,Reading,72.6
+2018,Punjab,Grade 8,Reading,85.1
+2018,Rajasthan,Grade 8,Reading,78.3
+2018,Sikkim,Grade 8,Reading,79
+2018,Tamil Nadu,Grade 8,Reading,73.2
+2018,Telangana,Grade 8,Reading,69
+2018,Tripura,Grade 8,Reading,68.3
+2018,Uttar Pradesh,Grade 8,Reading,71.2
+2018,Uttarakhand,Grade 8,Reading,72.6
+2018,West Bengal,Grade 8,Reading,68.3
+2018,ALL INDIA (Govt),Grade 8,Reading,73
+2022,Andhra Pradesh,Grade 8,Reading,66.4
+2022,Arunachal Pradesh,Grade 8,Reading,73.4
+2022,Assam,Grade 8,Reading,68.8
+2022,Bihar,Grade 8,Reading,71.2
+2022,Chhattisgarh,Grade 8,Reading,82
+2022,Gujarat,Grade 8,Reading,52.4
+2022,Haryana,Grade 8,Reading,80.3
+2022,Himachal Pradesh,Grade 8,Reading,87.9
+2022,Jammu & Kashmir,Grade 8,Reading,60.9
+2022,Jharkhand,Grade 8,Reading,73.4
+2022,Karnataka,Grade 8,Reading,58
+2022,Kerala,Grade 8,Reading,87.9
+2022,Madhya Pradesh,Grade 8,Reading,61.3
+2022,Maharashtra,Grade 8,Reading,75.3
+2022,Manipur,Grade 8,Reading,85
+2022,Meghalaya,Grade 8,Reading,76.7
+2022,Mizoram,Grade 8,Reading,76.2
+2022,Nagaland,Grade 8,Reading,71.4
+2022,Odisha,Grade 8,Reading,68.9
+2022,Punjab,Grade 8,Reading,82.3
+2022,Rajasthan,Grade 8,Reading,65.3
+2022,Sikkim,Grade 8,Reading,65.4
+2022,Tamil Nadu,Grade 8,Reading,66.4
+2022,Telangana,Grade 8,Reading,59.3
+2022,Tripura,Grade 8,Reading,58.8
+2022,Uttar Pradesh,Grade 8,Reading,68.4
+2022,Uttarakhand,Grade 8,Reading,68.9
+2022,West Bengal,Grade 8,Reading,58.8
+2022,ALL INDIA (Govt),Grade 8,Reading,69.6
+2024,Andhra Pradesh,Grade 8,Reading,56.2
+2024,Arunachal Pradesh,Grade 8,Reading,76
+2024,Assam,Grade 8,Reading,65.9
+2024,Bihar,Grade 8,Reading,72.8
+2024,Chhattisgarh,Grade 8,Reading,76
+2024,Gujarat,Grade 8,Reading,75.9
+2024,Haryana,Grade 8,Reading,82.7
+2024,Himachal Pradesh,Grade 8,Reading,88.3
+2024,Jammu & Kashmir,Grade 8,Reading,58.5
+2024,Jharkhand,Grade 8,Reading,76
+2024,Karnataka,Grade 8,Reading,56.2
+2024,Kerala,Grade 8,Reading,88.3
+2024,Madhya Pradesh,Grade 8,Reading,58.5
+2024,Maharashtra,Grade 8,Reading,76
+2024,Odisha,Grade 8,Reading,72.8
+2024,Punjab,Grade 8,Reading,88.3
+2024,Rajasthan,Grade 8,Reading,58.5
+2024,Tamil Nadu,Grade 8,Reading,72.8
+2024,Telangana,Grade 8,Reading,56.2
+2024,Uttar Pradesh,Grade 8,Reading,72.8
+2024,Uttarakhand,Grade 8,Reading,72.8
+2024,West Bengal,Grade 8,Reading,72.8
+2018,Andhra Pradesh,Grade 3,Math,34.1
+2018,Arunachal Pradesh,Grade 3,Math,23.5
+2018,Assam,Grade 3,Math,23.4
+2018,Bihar,Grade 3,Math,18
+2018,Chhattisgarh,Grade 3,Math,16
+2018,Gujarat,Grade 3,Math,22.8
+2018,Haryana,Grade 3,Math,31.6
+2018,Himachal Pradesh,Grade 3,Math,42.4
+2018,Jammu & Kashmir,Grade 3,Math,20.2
+2018,Jharkhand,Grade 3,Math,14.8
+2018,Karnataka,Grade 3,Math,23.5
+2018,Kerala,Grade 3,Math,44.3
+2018,Madhya Pradesh,Grade 3,Math,8.5
+2018,Maharashtra,Grade 3,Math,28.1
+2018,Manipur,Grade 3,Math,53.5
+2018,Meghalaya,Grade 3,Math,14.2
+2018,Mizoram,Grade 3,Math,57.4
+2018,Nagaland,Grade 3,Math,26.3
+2018,Odisha,Grade 3,Math,28.1
+2018,Punjab,Grade 3,Math,40.5
+2018,Rajasthan,Grade 3,Math,8.1
+2018,Sikkim,Grade 3,Math,34.7
+2018,Tamil Nadu,Grade 3,Math,23.6
+2018,Telangana,Grade 3,Math,30.6
+2018,Tripura,Grade 3,Math,33.1
+2018,Uttar Pradesh,Grade 3,Math,11.2
+2018,Uttarakhand,Grade 3,Math,18.5
+2018,West Bengal,Grade 3,Math,35.5
+2018,ALL INDIA (Govt),Grade 3,Math,20.9
+2022,Andhra Pradesh,Grade 3,Math,29.2
+2022,Arunachal Pradesh,Grade 3,Math,29.4
+2022,Assam,Grade 3,Math,15.8
+2022,Bihar,Grade 3,Math,21.2
+2022,Chhattisgarh,Grade 3,Math,16
+2022,Gujarat,Grade 3,Math,22.9
+2022,Haryana,Grade 3,Math,26.1
+2022,Himachal Pradesh,Grade 3,Math,31.3
+2022,Jammu & Kashmir,Grade 3,Math,26.1
+2022,Jharkhand,Grade 3,Math,16.3
+2022,Karnataka,Grade 3,Math,19.6
+2022,Kerala,Grade 3,Math,32.7
+2022,Madhya Pradesh,Grade 3,Math,9.5
+2022,Maharashtra,Grade 3,Math,18.5
+2022,Manipur,Grade 3,Math,56.2
+2022,Meghalaya,Grade 3,Math,15.3
+2022,Mizoram,Grade 3,Math,35.3
+2022,Nagaland,Grade 3,Math,27.7
+2022,Odisha,Grade 3,Math,26.8
+2022,Punjab,Grade 3,Math,31.1
+2022,Rajasthan,Grade 3,Math,4.9
+2022,Sikkim,Grade 3,Math,36.1
+2022,Tamil Nadu,Grade 3,Math,9.3
+2022,Telangana,Grade 3,Math,27.2
+2022,Tripura,Grade 3,Math,29
+2022,Uttar Pradesh,Grade 3,Math,19.7
+2022,Uttarakhand,Grade 3,Math,14.4
+2022,West Bengal,Grade 3,Math,32.4
+2022,ALL INDIA (Govt),Grade 3,Math,20.2
+2024,Andhra Pradesh,Grade 3,Math,40.9
+2024,Arunachal Pradesh,Grade 3,Math,30.2
+2024,Assam,Grade 3,Math,22.3
+2024,Bihar,Grade 3,Math,28.2
+2024,Chhattisgarh,Grade 3,Math,21.9
+2024,Gujarat,Grade 3,Math,16.5
+2024,Haryana,Grade 3,Math,33.1
+2024,Himachal Pradesh,Grade 3,Math,49.5
+2024,Jammu & Kashmir,Grade 3,Math,22.7
+2024,Jharkhand,Grade 3,Math,24.6
+2024,Karnataka,Grade 3,Math,23.9
+2024,Kerala,Grade 3,Math,26.9
+2024,Madhya Pradesh,Grade 3,Math,13
+2024,Maharashtra,Grade 3,Math,31.6
+2024,Meghalaya,Grade 3,Math,18.9
+2024,Mizoram,Grade 3,Math,55.3
+2024,Nagaland,Grade 3,Math,31.4
+2024,Odisha,Grade 3,Math,34.6
+2024,Punjab,Grade 3,Math,45.8
+2024,Rajasthan,Grade 3,Math,10.4
+2024,Sikkim,Grade 3,Math,35.1
+2024,Tamil Nadu,Grade 3,Math,27.6
+2024,Telangana,Grade 3,Math,29.1
+2024,Tripura,Grade 3,Math,28
+2024,Uttar Pradesh,Grade 3,Math,31.6
+2024,Uttarakhand,Grade 3,Math,26.7
+2024,West Bengal,Grade 3,Math,37.5
+2024,ALL INDIA (Govt),Grade 3,Math,27.6
+2018,Andhra Pradesh,Grade 5,Math,36.7
+2018,Arunachal Pradesh,Grade 5,Math,22.1
+2018,Assam,Grade 5,Math,14.4
+2018,Bihar,Grade 5,Math,24.1
+2018,Chhattisgarh,Grade 5,Math,26.1
+2018,Gujarat,Grade 5,Math,18.4
+2018,Haryana,Grade 5,Math,34.4
+2018,Himachal Pradesh,Grade 5,Math,51.5
+2018,Jammu & Kashmir,Grade 5,Math,13.6
+2018,Jharkhand,Grade 5,Math,15.6
+2018,Karnataka,Grade 5,Math,19.6
+2018,Kerala,Grade 5,Math,33.3
+2018,Madhya Pradesh,Grade 5,Math,16.5
+2018,Maharashtra,Grade 5,Math,31.7
+2018,Manipur,Grade 5,Math,38.4
+2018,Meghalaya,Grade 5,Math,4.7
+2018,Mizoram,Grade 5,Math,35.8
+2018,Nagaland,Grade 5,Math,19.3
+2018,Odisha,Grade 5,Math,23.8
+2018,Punjab,Grade 5,Math,50.1
+2018,Rajasthan,Grade 5,Math,14.1
+2018,Sikkim,Grade 5,Math,10.9
+2018,Tamil Nadu,Grade 5,Math,27.1
+2018,Telangana,Grade 5,Math,26.7
+2018,Tripura,Grade 5,Math,16.6
+2018,Uttar Pradesh,Grade 5,Math,17
+2018,Uttarakhand,Grade 5,Math,26.7
+2018,West Bengal,Grade 5,Math,29.2
+2018,ALL INDIA (Govt),Grade 5,Math,22.7
+2022,Andhra Pradesh,Grade 5,Math,27.3
+2022,Arunachal Pradesh,Grade 5,Math,19.5
+2022,Assam,Grade 5,Math,10.1
+2022,Bihar,Grade 5,Math,30
+2022,Chhattisgarh,Grade 5,Math,22.8
+2022,Gujarat,Grade 5,Math,14.5
+2022,Haryana,Grade 5,Math,27.6
+2022,Himachal Pradesh,Grade 5,Math,38.1
+2022,Jammu & Kashmir,Grade 5,Math,14
+2022,Jharkhand,Grade 5,Math,20.8
+2022,Karnataka,Grade 5,Math,12
+2022,Kerala,Grade 5,Math,20.2
+2022,Madhya Pradesh,Grade 5,Math,15.7
+2022,Maharashtra,Grade 5,Math,20.1
+2022,Manipur,Grade 5,Math,45.2
+2022,Meghalaya,Grade 5,Math,10.1
+2022,Mizoram,Grade 5,Math,14.8
+2022,Nagaland,Grade 5,Math,8.9
+2022,Odisha,Grade 5,Math,26.1
+2022,Punjab,Grade 5,Math,33.3
+2022,Rajasthan,Grade 5,Math,6.3
+2022,Sikkim,Grade 5,Math,12.7
+2022,Tamil Nadu,Grade 5,Math,14.7
+2022,Telangana,Grade 5,Math,21.5
+2022,Tripura,Grade 5,Math,13.4
+2022,Uttar Pradesh,Grade 5,Math,24.5
+2022,Uttarakhand,Grade 5,Math,23.3
+2022,West Bengal,Grade 5,Math,26.9
+2022,ALL INDIA (Govt),Grade 5,Math,21.6
+2024,Andhra Pradesh,Grade 5,Math,35.1
+2024,Arunachal Pradesh,Grade 5,Math,22.6
+2024,Assam,Grade 5,Math,12
+2024,Bihar,Grade 5,Math,32.5
+2024,Chhattisgarh,Grade 5,Math,22.9
+2024,Gujarat,Grade 5,Math,13.1
+2024,Haryana,Grade 5,Math,29.4
+2024,Himachal Pradesh,Grade 5,Math,47
+2024,Jammu & Kashmir,Grade 5,Math,16.3
+2024,Jharkhand,Grade 5,Math,25.5
+2024,Karnataka,Grade 5,Math,19.3
+2024,Kerala,Grade 5,Math,12.4
+2024,Madhya Pradesh,Grade 5,Math,16.9
+2024,Maharashtra,Grade 5,Math,26.1
+2024,Meghalaya,Grade 5,Math,15.2
+2024,Mizoram,Grade 5,Math,40.3
+2024,Nagaland,Grade 5,Math,12.7
+2024,Odisha,Grade 5,Math,29.7
+2024,Punjab,Grade 5,Math,50
+2024,Rajasthan,Grade 5,Math,12.3
+2024,Sikkim,Grade 5,Math,17.9
+2024,Tamil Nadu,Grade 5,Math,20.2
+2024,Telangana,Grade 5,Math,23.9
+2024,Tripura,Grade 5,Math,17.6
+2024,Uttar Pradesh,Grade 5,Math,31.8
+2024,Uttarakhand,Grade 5,Math,35.4
+2024,West Bengal,Grade 5,Math,34.3
+2024,ALL INDIA (Govt),Grade 5,Math,26.5
+2018,Andhra Pradesh,Grade 8,Math,44
+2018,Arunachal Pradesh,Grade 8,Math,42.6
+2018,Assam,Grade 8,Math,28.1
+2018,Bihar,Grade 8,Math,55.1
+2018,Chhattisgarh,Grade 8,Math,28
+2018,Gujarat,Grade 8,Math,35.8
+2018,Haryana,Grade 8,Math,49.1
+2018,Himachal Pradesh,Grade 8,Math,54.7
+2018,Jammu & Kashmir,Grade 8,Math,25.3
+2018,Jharkhand,Grade 8,Math,42.2
+2018,Karnataka,Grade 8,Math,36.1
+2018,Kerala,Grade 8,Math,43.3
+2018,Madhya Pradesh,Grade 8,Math,32.1
+2018,Maharashtra,Grade 8,Math,41.4
+2018,Manipur,Grade 8,Math,62.3
+2018,Meghalaya,Grade 8,Math,23.3
+2018,Mizoram,Grade 8,Math,67.5
+2018,Nagaland,Grade 8,Math,40.7
+2018,Odisha,Grade 8,Math,41.4
+2018,Punjab,Grade 8,Math,58.4
+2018,Rajasthan,Grade 8,Math,34.3
+2018,Sikkim,Grade 8,Math,38.6
+2018,Tamil Nadu,Grade 8,Math,49.6
+2018,Telangana,Grade 8,Math,43
+2018,Tripura,Grade 8,Math,30.6
+2018,Uttar Pradesh,Grade 8,Math,32
+2018,Uttarakhand,Grade 8,Math,41.6
+2018,West Bengal,Grade 8,Math,28.9
+2018,ALL INDIA (Govt),Grade 8,Math,44.1
+2022,Andhra Pradesh,Grade 8,Math,51.8
+2022,Arunachal Pradesh,Grade 8,Math,40.2
+2022,Assam,Grade 8,Math,21.7
+2022,Bihar,Grade 8,Math,58
+2022,Chhattisgarh,Grade 8,Math,38
+2022,Gujarat,Grade 8,Math,31.3
+2022,Haryana,Grade 8,Math,49.5
+2022,Himachal Pradesh,Grade 8,Math,48.2
+2022,Jammu & Kashmir,Grade 8,Math,26.3
+2022,Jharkhand,Grade 8,Math,43.2
+2022,Karnataka,Grade 8,Math,33.4
+2022,Kerala,Grade 8,Math,39.9
+2022,Madhya Pradesh,Grade 8,Math,39
+2022,Maharashtra,Grade 8,Math,38.1
+2022,Manipur,Grade 8,Math,53.7
+2022,Meghalaya,Grade 8,Math,18.7
+2022,Mizoram,Grade 8,Math,41.3
+2022,Nagaland,Grade 8,Math,37.3
+2022,Odisha,Grade 8,Math,42.5
+2022,Punjab,Grade 8,Math,44.5
+2022,Rajasthan,Grade 8,Math,29.1
+2022,Sikkim,Grade 8,Math,43.2
+2022,Tamil Nadu,Grade 8,Math,43.5
+2022,Telangana,Grade 8,Math,40.2
+2022,Tripura,Grade 8,Math,43.2
+2022,Uttar Pradesh,Grade 8,Math,41.7
+2022,Uttarakhand,Grade 8,Math,40
+2022,West Bengal,Grade 8,Math,32
+2022,ALL INDIA (Govt),Grade 8,Math,44.7
+2024,Andhra Pradesh,Grade 8,Math,45.2
+2024,Arunachal Pradesh,Grade 8,Math,42.8
+2024,Assam,Grade 8,Math,24.2
+2024,Bihar,Grade 8,Math,62
+2024,Chhattisgarh,Grade 8,Math,33.5
+2024,Gujarat,Grade 8,Math,28.3
+2024,Haryana,Grade 8,Math,43.1
+2024,Himachal Pradesh,Grade 8,Math,45.9
+2024,Jammu & Kashmir,Grade 8,Math,28
+2024,Jharkhand,Grade 8,Math,47.2
+2024,Karnataka,Grade 8,Math,35.7
+2024,Kerala,Grade 8,Math,31
+2024,Madhya Pradesh,Grade 8,Math,34.9
+2024,Maharashtra,Grade 8,Math,34.5
+2024,Meghalaya,Grade 8,Math,12.1
+2024,Mizoram,Grade 8,Math,59.2
+2024,Nagaland,Grade 8,Math,29.3
+2024,Odisha,Grade 8,Math,47.1
+2024,Punjab,Grade 8,Math,62.5
+2024,Rajasthan,Grade 8,Math,25.5
+2024,Sikkim,Grade 8,Math,27.8
+2024,Tamil Nadu,Grade 8,Math,37.8
+2024,Telangana,Grade 8,Math,38.5
+2024,Tripura,Grade 8,Math,37.5
+2024,Uttar Pradesh,Grade 8,Math,45.6
+2024,Uttarakhand,Grade 8,Math,45.2
+2024,West Bengal,Grade 8,Math,33.5
+2024,ALL INDIA (Govt),Grade 8,Math,45.8
+2018,All India,Grade 1,Very Low Math,35.7
+2018,All India,Grade 1,Basic Math,37.1
+2018,All India,Grade 1,Intermediate Math,21.3
+2018,All India,Grade 1,Subtraction,3.9
+2018,All India,Grade 1,Division,2
+2018,All India,Grade 2,Very Low Math,14.9
+2018,All India,Grade 2,Basic Math,36.1
+2018,All India,Grade 2,Intermediate Math,34.6
+2018,All India,Grade 2,Subtraction,10.6
+2018,All India,Grade 2,Division,3.8
+2018,All India,Grade 3,Very Low Math,7.6
+2018,All India,Grade 3,Basic Math,26.9
+2018,All India,Grade 3,Intermediate Math,37.5
+2018,All India,Grade 3,Subtraction,19.6
+2018,All India,Grade 3,Division,8.5
+2018,All India,Grade 4,Very Low Math,4.4
+2018,All India,Grade 4,Basic Math,19.2
+2018,All India,Grade 4,Intermediate Math,34.2
+2018,All India,Grade 4,Subtraction,24.6
+2018,All India,Grade 4,Division,17.6
+2018,All India,Grade 5,Very Low Math,3.3
+2018,All India,Grade 5,Basic Math,13.8
+2018,All India,Grade 5,Intermediate Math,30.5
+2018,All India,Grade 5,Subtraction,24.5
+2018,All India,Grade 5,Division,27.8
+2018,All India,Grade 6,Very Low Math,2.2
+2018,All India,Grade 6,Basic Math,9.7
+2018,All India,Grade 6,Intermediate Math,29.4
+2018,All India,Grade 6,Subtraction,24
+2018,All India,Grade 6,Division,34.7
+2018,All India,Grade 7,Very Low Math,1.6
+2018,All India,Grade 7,Basic Math,7.5
+2018,All India,Grade 7,Intermediate Math,28
+2018,All India,Grade 7,Subtraction,24
+2018,All India,Grade 7,Division,39
+2018,All India,Grade 8,Very Low Math,1.1
+2018,All India,Grade 8,Basic Math,5.6
+2018,All India,Grade 8,Intermediate Math,27.3
+2018,All India,Grade 8,Subtraction,22.1
+2018,All India,Grade 8,Division,43.9
+2022,All India,Grade 1,Very Low Math,37.6
+2022,All India,Grade 1,Basic Math,36.8
+2022,All India,Grade 1,Intermediate Math,19.8
+2022,All India,Grade 1,Subtraction,4.1
+2022,All India,Grade 1,Division,1.7
+2022,All India,Grade 2,Very Low Math,16.9
+2022,All India,Grade 2,Basic Math,36.1
+2022,All India,Grade 2,Intermediate Math,33.1
+2022,All India,Grade 2,Subtraction,10.1
+2022,All India,Grade 2,Division,3.9
+2022,All India,Grade 3,Very Low Math,9.8
+2022,All India,Grade 3,Basic Math,27.6
+2022,All India,Grade 3,Intermediate Math,36.8
+2022,All India,Grade 3,Subtraction,17.6
+2022,All India,Grade 3,Division,8.3
+2022,All India,Grade 4,Very Low Math,5.8
+2022,All India,Grade 4,Basic Math,20.2
+2022,All India,Grade 4,Intermediate Math,35.3
+2022,All India,Grade 4,Subtraction,22.9
+2022,All India,Grade 4,Division,15.9
+2022,All India,Grade 5,Very Low Math,3.7
+2022,All India,Grade 5,Basic Math,14.6
+2022,All India,Grade 5,Intermediate Math,31.8
+2022,All India,Grade 5,Subtraction,24.3
+2022,All India,Grade 5,Division,25.6
+2022,All India,Grade 6,Very Low Math,2.8
+2022,All India,Grade 6,Basic Math,10.2
+2022,All India,Grade 6,Intermediate Math,30.4
+2022,All India,Grade 6,Subtraction,24.9
+2022,All India,Grade 6,Division,31.7
+2022,All India,Grade 7,Very Low Math,1.9
+2022,All India,Grade 7,Basic Math,7.3
+2022,All India,Grade 7,Intermediate Math,28.3
+2022,All India,Grade 7,Subtraction,24.7
+2022,All India,Grade 7,Division,37.8
+2022,All India,Grade 8,Very Low Math,1.6
+2022,All India,Grade 8,Basic Math,5.2
+2022,All India,Grade 8,Intermediate Math,25.5
+2022,All India,Grade 8,Subtraction,23.1
+2022,All India,Grade 8,Division,44.6
+2024,All India,Grade 1,Very Low Math,26.3
+2024,All India,Grade 1,Basic Math,39.9
+2024,All India,Grade 1,Intermediate Math,26.6
+2024,All India,Grade 1,Subtraction,5.2
+2024,All India,Grade 1,Division,2
+2024,All India,Grade 2,Very Low Math,10.6
+2024,All India,Grade 2,Basic Math,33.5
+2024,All India,Grade 2,Intermediate Math,37.2
+2024,All India,Grade 2,Subtraction,13.7
+2024,All India,Grade 2,Division,5
+2024,All India,Grade 3,Very Low Math,5.5
+2024,All India,Grade 3,Basic Math,23.7
+2024,All India,Grade 3,Intermediate Math,37.1
+2024,All India,Grade 3,Subtraction,22.3
+2024,All India,Grade 3,Division,11.4
+2024,All India,Grade 4,Very Low Math,2.9
+2024,All India,Grade 4,Basic Math,15.6
+2024,All India,Grade 4,Intermediate Math,34.1
+2024,All India,Grade 4,Subtraction,25.8
+2024,All India,Grade 4,Division,21.5
+2024,All India,Grade 5,Very Low Math,2.3
+2024,All India,Grade 5,Basic Math,11.8
+2024,All India,Grade 5,Intermediate Math,30.1
+2024,All India,Grade 5,Subtraction,25.1
+2024,All India,Grade 5,Division,30.7
+2024,All India,Grade 6,Very Low Math,1.6
+2024,All India,Grade 6,Basic Math,8.8
+2024,All India,Grade 6,Intermediate Math,28.9
+2024,All India,Grade 6,Subtraction,24.7
+2024,All India,Grade 6,Division,36
+2024,All India,Grade 7,Very Low Math,1.2
+2024,All India,Grade 7,Basic Math,6.6
+2024,All India,Grade 7,Intermediate Math,27.2
+2024,All India,Grade 7,Subtraction,23.5
+2024,All India,Grade 7,Division,41.5
+2024,All India,Grade 8,Very Low Math,1.1
+2024,All India,Grade 8,Basic Math,4.9
+2024,All India,Grade 8,Intermediate Math,25.4
+2024,All India,Grade 8,Subtraction,22.8
+2024,All India,Grade 8,Division,45.7
